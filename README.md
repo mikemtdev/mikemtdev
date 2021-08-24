@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### I'm Mike, a software engineer 👨‍💻 🚀  
   
 
@@ -106,17 +101,25 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Github Stats  
+## Github  
 ![Profile views counter](https://komarev.com/ghpvc/?username=mikemtdev&&style=flat-square)  
   
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mikemtdev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikemtdev&hide_border=true&layout=compact" align="left" />  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mikemtdev&show_icons=true&count_private=true&hide_border=true" align="left" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikemtdev&hide_border=true&layout=compact" align="left" />
+
+</td></tr></table>  
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31xz7ztrib7gkb7unmhbpi7ed5nm&cover_image=true&theme=default" /></div>  
+  
 
 <br/>  
 
