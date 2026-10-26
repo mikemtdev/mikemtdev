@@ -3,7 +3,7 @@
 I'm a full-stack software engineer and UI/UX designer based in Lusaka, Zambia 🇿🇲, open to remote roles with companies across EMEA and beyond. I build products end to end: designing the interface, shipping the React / React Native front end, and wiring it to Node.js, GraphQL and AWS back ends. I enjoy getting things done and shipping things people use.
 
 - 🌍 **Remote-ready for EMEA:** I work in CAT (UTC+2), the same hour as most of Europe in winter and one hour ahead of London in summer, so I overlap with the whole working day in the UK, Europe, the Middle East and Africa. I'm fluent in English and have worked remotely for teams in London and Lusaka (WorksHub, Imuks, Gulastore)
-- 🚀 Senior Engineering Lead at Afrimeta Technologies: leading a team shipping payments, notifications, logistics and error-alerting features on a PHP / Laravel platform
+- 🚀 Senior Engineering Lead at Afrimeta Technologies: leading a team shipping payments, notifications, logistics and observability (Grafana, Prometheus, Sentry, Slack alerting) on a PHP / Laravel platform
 - 🤖 Building AI-powered products on my own time, such as [Lukonga](#personal-projects), a meeting assistant that turns transcripts into action points
 - 🌍 Open source contributor to [sparkednext.app](https://github.com/SparkEdUAB/sparked-next)
 - 🔭 Currently working on a [script to install and set up my computer after a fresh install](https://github.com/mikemtdev/nova-script)
@@ -17,7 +17,7 @@ I'm a full-stack software engineer and UI/UX designer based in Lusaka, Zambia �
   - SMS notifications for transactions and account activity, tuned for timely, reliable delivery
   - a machinery hiring platform with inventory, availability and booking management
   - a logistics courier integration tailored to the business
-  - real-time error alerts across both platforms, routed by severity so critical issues are handled first
+  - an observability stack for reliability: Prometheus metrics and Grafana dashboards, Sentry error tracking across both platforms, and live Slack alerts routed by severity so critical issues are handled first and debugged quickly
 - **Software Engineer & UI/UX**, Imuks (part-time, remote, Sep 2021 - 2024): enterprise systems on Next.js, Ant Design and AWS. Lead frontend developer, and lead mobile developer on the [Zambia Energy Efficiency App](https://play.google.com/store/apps/details?id=net.imuks.energymeter) for iOS and Android
 - **Software Engineer**, Gulastore (contract, remote, Feb 2023 - Sep 2023): full-stack work in TypeScript, React, Node and Apollo GraphQL
 - **Frontend Developer**, WorksHub, London (contract, remote, Apr 2022 - Aug 2022): helped move the product from Clojure to React and Next.js
