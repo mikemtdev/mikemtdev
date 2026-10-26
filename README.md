@@ -1,7 +1,8 @@
 ### Hi, I'm Mike 👋
 
-I'm a full-stack software engineer and UI/UX designer based in Lusaka, Zambia 🇿🇲. I build products end to end: designing the interface, shipping the React / React Native front end, and wiring it to Node.js, GraphQL and AWS back ends. I enjoy getting things done and shipping things people use.
+I'm a full-stack software engineer and UI/UX designer based in Lusaka, Zambia 🇿🇲, open to remote roles with companies across EMEA and beyond. I build products end to end: designing the interface, shipping the React / React Native front end, and wiring it to Node.js, GraphQL and AWS back ends. I enjoy getting things done and shipping things people use.
 
+- 🌍 **Remote-ready for EMEA:** I work in CAT (UTC+2), the same hour as most of Europe in winter and one hour ahead of London in summer, so I overlap with the whole working day in the UK, Europe, the Middle East and Africa. I'm fluent in English and have worked with a London-based team remotely
 - 🚀 Software Engineer & UI/UX at Imuks App Solution since 2021, building enterprise systems that scale
 - 🤖 Building and shipping AI-powered products, such as [Lukonga](#projects), a meeting assistant that turns transcripts into action points
 - 🌍 Open source contributor to [sparkednext.app](https://github.com/SparkEdUAB/sparked-next)
@@ -19,7 +20,7 @@ I'm a full-stack software engineer and UI/UX designer based in Lusaka, Zambia �
 
 ## Experience
 - **Software Engineer & UI/UX**, Imuks App Solution (Sep 2021 - Present): enterprise platforms on Ant Design and AWS, mobile and frontend lead
-- **Frontend Developer**, WorksHub, London (remote, Apr 2022 - Aug 2022): helped move the product from Clojure to React and Next.js
+- **Frontend Developer**, WorksHub, London (fully remote, Apr 2022 - Aug 2022): helped move the product from Clojure to React and Next.js
 - **Software Engineer and bootcamp trainer**, Hackers Guild (Feb 2020 - Apr 2022): maintained production systems, pixel-perfect UI implementation, prototyping
 - **Computer Technician**, Kati Mamulio Institute of IT (Dec 2017 - Dec 2019): hardware, networking and systems support
 
