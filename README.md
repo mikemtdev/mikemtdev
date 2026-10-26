@@ -5,7 +5,6 @@ I'm a full-stack software engineer and UI/UX designer in Lusaka, Zambia 🇿🇲
 - 🚀 **Now:** Senior Engineering Lead at Afrimeta Technologies, leading a team on a PHP / Laravel platform: payments, SMS notifications, logistics, and observability with Grafana, Prometheus, Sentry and live Slack alerts
 - 🌍 **Remote-ready:** I work in CAT (UTC+2), so I overlap the full working day in the UK, Europe, the Middle East and Africa. Fluent English, remote experience with teams in London and Lusaka
 - 🤝 **Open source:** contributor to [sparkednext.app](https://github.com/SparkEdUAB/sparked-next)
-- 🔭 **Tinkering with:** a [script to set up my computer after a fresh install](https://github.com/mikemtdev/nova-script)
 - 🌱 **Learning:** deeper TypeScript and React Native
 - ⚡ **Fun fact:** I use tabs over spaces
 
