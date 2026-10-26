@@ -9,8 +9,7 @@ I'm a full-stack software engineer and UI/UX designer in Lusaka, Zambia 🇿🇲
 - ⚡ **Fun fact:** I use tabs over spaces
 
 ### In my past life I worked at
-- **Imuks** (2021 - 2024, remote): lead frontend developer, and lead mobile developer on the [Zambia Energy Efficiency App](https://play.google.com/store/apps/details?id=net.imuks.energymeter)
-- **Gulastore** (2023, remote): full-stack TypeScript, React and Node
+- **Imuks** (2022 - 2023, remote): lead frontend developer, and lead mobile developer on the [Zambia Energy Efficiency App](https://play.google.com/store/apps/details?id=net.imuks.energymeter)
 - **WorksHub**, London (2022, remote): helped move the product from Clojure to React and Next.js
 - **Hackers Guild** (2020 - 2022): software engineer and bootcamp trainer
 - **Kati Mulilo Institute of IT** (2017 - 2019): computer technician
