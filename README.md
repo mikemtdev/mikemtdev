@@ -1,12 +1,27 @@
 ### Hi, I'm Mike 👋
 
-Thanks for checking out my profile. I'm a software engineer 👨‍💻 who enjoys getting things done. I maintain a few repositories here on GitHub in my free time and contribute to open source projects when I can.
+I'm a full-stack software engineer and UI/UX designer based in Lusaka, Zambia 🇿🇲. I build products end to end: designing the interface, shipping the React / React Native front end, and wiring it to Node.js, GraphQL and AWS back ends. I enjoy getting things done and shipping things people use.
 
-- 🌍 I actively contribute to:
-  - [sparkednext.app](https://github.com/SparkEdUAB/sparked-next) (open source contributor)
-- 🔭 I'm currently working on a [script to install and set up my computer after a fresh install](https://github.com/mikemtdev/nova-script)
-- 🌱 I'm currently learning TypeScript and React Native
+- 🚀 Software Engineer & UI/UX at Imuks App Solution since 2021, building enterprise systems that scale
+- 🤖 Building and shipping AI-powered products, such as [Lukonga](#projects), a meeting assistant that turns transcripts into action points
+- 🌍 Open source contributor to [sparkednext.app](https://github.com/SparkEdUAB/sparked-next)
+- 🔭 Currently working on a [script to install and set up my computer after a fresh install](https://github.com/mikemtdev/nova-script)
+- 🌱 Currently deepening my TypeScript and React Native
+- 🎓 Former bootcamp trainer at Hackers Guild, so I enjoy mentoring people getting started in software
 - ⚡ Fun fact: I use tabs over spaces
+
+## Projects
+- **[Lusuno](https://www.lusuno.com)**: loan management platform covering the lending workflow from application to repayment tracking, compliance, disbursements and collections
+- **[Lumeku](https://www.Lumeku.com)**: CRM covering lead capture to deal closure, email integration and reporting
+- **Lukonga**: AI meeting platform that produces action points, assigned tasks and decisions, and lets you ask questions answered from the transcript
+- **Zambia Energy Efficiency App**: lead mobile developer, iOS and Android
+- **Records management system**: lead frontend developer for an enterprise-level organisation
+
+## Experience
+- **Software Engineer & UI/UX**, Imuks App Solution (Sep 2021 - Present): enterprise platforms on Ant Design and AWS, mobile and frontend lead
+- **Frontend Developer**, WorksHub, London (remote, Apr 2022 - Aug 2022): helped move the product from Clojure to React and Next.js
+- **Software Engineer and bootcamp trainer**, Hackers Guild (Feb 2020 - Apr 2022): maintained production systems, pixel-perfect UI implementation, prototyping
+- **Computer Technician**, Kati Mamulio Institute of IT (Dec 2017 - Dec 2019): hardware, networking and systems support
 
 <br/>
 
@@ -54,6 +69,7 @@ Thanks for checking out my profile. I'm a software engineer 👨‍💻 who enjo
 <br/>
 
 ## Find me around the web
+- 🌐 [Portfolio](https://mikemtnjovu.dev)
 - 🐦 [Twitter](https://twitter.com/mikemtdev)
 - 💼 [LinkedIn](https://linkedin.com/in/mike-njovu-5866191b3)
 - 🎨 [Behance](https://www.behance.net/MikeMT)
